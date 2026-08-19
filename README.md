@@ -16,16 +16,16 @@ keep the session readable.
 ## Install
 
 ```bash
-bunx skills add dinghino/monkey
+bunx skills add dinghino/skills
 ```
 
 <details>
 <summary>npm / pnpm / yarn</summary>
 
 ```bash
-npx skills add dinghino/monkey
-pnpm dlx skills add dinghino/monkey
-yarn dlx skills add dinghino/monkey
+npx skills add dinghino/skills
+pnpm dlx skills add dinghino/skills
+yarn dlx skills add dinghino/skills
 ```
 
 </details>

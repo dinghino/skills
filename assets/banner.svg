@@ -13,7 +13,7 @@
   <!-- wordmark -->
   <text class="wm"  x="64" y="150" fill="#FED13C">monkey</text>
   <text class="tag" x="66" y="192" fill="#9C9CAC">short answer. few words.</text>
-  <text class="cmd" x="66" y="232" fill="#7C7C8C">bunx skills add dinghino/monkey</text>
+  <text class="cmd" x="66" y="232" fill="#7C7C8C">bunx skills add dinghino/skills</text>
 
   <!-- divider -->
   <rect x="500" y="56" width="1" height="208" fill="#2B2B36"/>
