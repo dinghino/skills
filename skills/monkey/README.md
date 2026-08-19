@@ -16,16 +16,18 @@ keep the session readable.
 ## Install
 
 ```bash
-bunx skills add dinghino/skills
+bunx skills add dinghino/skills --skill monkey
 ```
+
+Drop the `--skill` flag to take every skill in the repo instead.
 
 <details>
 <summary>npm / pnpm / yarn</summary>
 
 ```bash
-npx skills add dinghino/skills
-pnpm dlx skills add dinghino/skills
-yarn dlx skills add dinghino/skills
+npx skills add dinghino/skills --skill monkey
+pnpm dlx skills add dinghino/skills --skill monkey
+yarn dlx skills add dinghino/skills --skill monkey
 ```
 
 </details>
