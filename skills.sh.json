@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Tone",
+      "description": "Skills that change how the agent talks, not what it knows.",
+      "skills": ["monkey"]
+    }
+  ]
+}

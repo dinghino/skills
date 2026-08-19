@@ -1,0 +1,11 @@
+{
+  "name": "monkey-skill",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "bun run scripts/validate.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
