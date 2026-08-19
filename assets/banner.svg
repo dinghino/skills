@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="monkey — short answer, few words. A wall of text collapsing to three lines.">
+  <defs>
+    <style>
+      .wm { font: 800 78px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: -3px; }
+      .tag { font: 400 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .cmd { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .lbl { font: 600 12px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 2.5px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="#16130F"/>
+
+  <!-- wordmark -->
+  <text class="wm"  x="64" y="150" fill="#F5C542">monkey</text>
+  <text class="tag" x="66" y="192" fill="#9A938A">short answer. few words.</text>
+  <text class="cmd" x="66" y="232" fill="#6E675F">bunx skills add dinghino/monkey</text>
+
+  <!-- divider -->
+  <rect x="500" y="56" width="1" height="208" fill="#2C2721"/>
+
+  <!-- before: wall of text -->
+  <text class="lbl" x="560" y="56" fill="#6E675F">BEFORE</text>
+  <g fill="#3A352E">
+    <rect x="560" y="78"  width="236" height="6" rx="3"/>
+    <rect x="560" y="96"  width="214" height="6" rx="3"/>
+    <rect x="560" y="114" width="240" height="6" rx="3"/>
+    <rect x="560" y="132" width="198" height="6" rx="3"/>
+    <rect x="560" y="150" width="232" height="6" rx="3"/>
+    <rect x="560" y="168" width="240" height="6" rx="3"/>
+    <rect x="560" y="186" width="176" height="6" rx="3"/>
+    <rect x="560" y="204" width="228" height="6" rx="3"/>
+    <rect x="560" y="222" width="240" height="6" rx="3"/>
+    <rect x="560" y="240" width="152" height="6" rx="3"/>
+  </g>
+
+  <!-- arrow -->
+  <g stroke="#F5C542" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M834 160 h44"/>
+    <path d="M868 150 l12 10 -12 10"/>
+  </g>
+
+  <!-- after: three lines -->
+  <text class="lbl" x="916" y="56" fill="#6E675F">AFTER</text>
+  <g fill="#F5C542">
+    <rect x="916" y="142" width="212" height="6" rx="3"/>
+    <rect x="916" y="160" width="168" height="6" rx="3"/>
+    <rect x="916" y="178" width="104" height="6" rx="3"/>
+  </g>
+</svg>
