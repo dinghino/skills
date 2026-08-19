@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../assets/banner.svg" alt="monkey — short answer, few words" width="100%">
+  <img src="../../assets/monkey/banner.svg" alt="monkey — short answer, few words" width="100%">
 </p>
 
 # monkey
