@@ -4,7 +4,7 @@
   "groupings": [
     {
       "title": "Tone",
-      "description": "Skills that change how the agent talks, not what it knows.",
+      "description": "Tired of obnoxious essays in your decision-making chats? Monkey make talk easy. monkey go to point. monkey no ramble, repeat, fluff filler.",
       "skills": ["monkey"]
     }
   ]
