@@ -8,19 +8,19 @@
     </style>
   </defs>
 
-  <rect width="1200" height="320" rx="18" fill="#16130F"/>
+  <rect width="1200" height="320" rx="18" fill="#15151C"/>
 
   <!-- wordmark -->
-  <text class="wm"  x="64" y="150" fill="#F5C542">monkey</text>
-  <text class="tag" x="66" y="192" fill="#9A938A">short answer. few words.</text>
-  <text class="cmd" x="66" y="232" fill="#6E675F">bunx skills add dinghino/monkey</text>
+  <text class="wm"  x="64" y="150" fill="#FED13C">monkey</text>
+  <text class="tag" x="66" y="192" fill="#9C9CAC">short answer. few words.</text>
+  <text class="cmd" x="66" y="232" fill="#7C7C8C">bunx skills add dinghino/monkey</text>
 
   <!-- divider -->
-  <rect x="500" y="56" width="1" height="208" fill="#2C2721"/>
+  <rect x="500" y="56" width="1" height="208" fill="#2B2B36"/>
 
   <!-- before: wall of text -->
-  <text class="lbl" x="560" y="56" fill="#6E675F">BEFORE</text>
-  <g fill="#3A352E">
+  <text class="lbl" x="560" y="56" fill="#7C7C8C">BEFORE</text>
+  <g fill="#383844">
     <rect x="560" y="78"  width="236" height="6" rx="3"/>
     <rect x="560" y="96"  width="214" height="6" rx="3"/>
     <rect x="560" y="114" width="240" height="6" rx="3"/>
@@ -34,14 +34,14 @@
   </g>
 
   <!-- arrow -->
-  <g stroke="#F5C542" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#FED13C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M834 160 h44"/>
     <path d="M868 150 l12 10 -12 10"/>
   </g>
 
   <!-- after: three lines -->
-  <text class="lbl" x="916" y="56" fill="#6E675F">AFTER</text>
-  <g fill="#F5C542">
+  <text class="lbl" x="916" y="56" fill="#7C7C8C">AFTER</text>
+  <g fill="#FED13C">
     <rect x="916" y="142" width="212" height="6" rx="3"/>
     <rect x="916" y="160" width="168" height="6" rx="3"/>
     <rect x="916" y="178" width="104" height="6" rx="3"/>
