@@ -1,8 +1,13 @@
 # skills
 
-agent skills. made by dinghino. one folder each.
+[![skills.sh](https://skills.sh/b/dinghino/skills)](https://skills.sh/dinghino/skills)
 
-| skill | what it do |
+Collection of general purpose agent skills. this readme has been written by sonnet using [monkey](skills/monkey).
+
+
+## directory
+
+| skill | what it does |
 | --- | --- |
 | [monkey](skills/monkey) | make agent talk short. no essay. |
 
